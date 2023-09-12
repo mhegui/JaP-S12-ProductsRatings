@@ -19,3 +19,9 @@ Además de las buenas prácticas deberán desarrollar:
 
 Ejemeplo de cómo podrán organizar la información:
 <img src='https://github.com/uscudum/JaP-S12-ProductRatings/blob/master/Resultado.PNG' />
+
+Autores:
+Grupo 6
+Santiago Costa: 5063703-7
+Bruno Fleitas:  4855454-0
+Martin Hegui:   5379707-4
